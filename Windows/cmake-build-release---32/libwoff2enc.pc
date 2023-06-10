@@ -1,0 +1,12 @@
+prefix=C:/Program Files (x86)/woff2
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libwoff2enc
+Description: WOFF2 encoder library
+URL: https://github.com/google/woff2
+Version: 1.0.2
+Requires: libbrotlienc
+Requires.private: libwoff2common
+Libs: -L${libdir} -lwoff2enc
+Cflags: -I${includedir}

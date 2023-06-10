@@ -1,0 +1,14 @@
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/woff2common.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/woff2dec.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/woff2_decompress.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/woff2enc.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/woff2_compress.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/woff2_info.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/convert_woff2ttf_fuzzer.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/convert_woff2ttf_fuzzer_new_entry.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/edit_cache.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/rebuild_cache.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/list_install_components.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/install.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/install/local.dir
+C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32/CMakeFiles/install/strip.dir

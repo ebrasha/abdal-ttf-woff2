@@ -1,0 +1,88 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"F:/Abdal MinGW 11-x32/mingw32/lib/gcc/i686-w64-mingw32/13.1.0/include",
+						"F:/Abdal MinGW 11-x32/mingw32/include",
+						"F:/Abdal MinGW 11-x32/mingw32/lib/gcc/i686-w64-mingw32/13.1.0/include-fixed"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "F:/Abdal MinGW 11-x32/mingw32/bin/cc.exe",
+				"version" : "13.1.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"F:/Abdal MinGW 11-x32/mingw32/include/c++/13.1.0",
+						"F:/Abdal MinGW 11-x32/mingw32/include/c++/13.1.0/i686-w64-mingw32",
+						"F:/Abdal MinGW 11-x32/mingw32/include/c++/13.1.0/backward",
+						"F:/Abdal MinGW 11-x32/mingw32/lib/gcc/i686-w64-mingw32/13.1.0/include",
+						"F:/Abdal MinGW 11-x32/mingw32/include",
+						"F:/Abdal MinGW 11-x32/mingw32/lib/gcc/i686-w64-mingw32/13.1.0/include-fixed"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "F:/Abdal MinGW 11-x32/mingw32/bin/c++.exe",
+				"version" : "13.1.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "F:/Abdal MinGW 11-x32/mingw32/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

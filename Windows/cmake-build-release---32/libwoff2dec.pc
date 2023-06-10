@@ -1,0 +1,12 @@
+prefix=C:/Program Files (x86)/woff2
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libwoff2dec
+Description: WOFF2 decoder library
+URL: https://github.com/google/woff2
+Version: 1.0.2
+Requires: libbrotlidec
+Requires.private: libwoff2common
+Libs: -L${libdir} -lwoff2dec
+Cflags: -I${includedir}

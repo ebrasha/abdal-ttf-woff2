@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-28b6967dad8cd463f0c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "woff2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "convert_woff2ttf_fuzzer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-convert_woff2ttf_fuzzer-Release-11cdcb2d1e79c378f955.json",
+					"name" : "convert_woff2ttf_fuzzer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "convert_woff2ttf_fuzzer_new_entry::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-convert_woff2ttf_fuzzer_new_entry-Release-45f6661747cbca3c0adf.json",
+					"name" : "convert_woff2ttf_fuzzer_new_entry",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "woff2_compress::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-woff2_compress-Release-1ec16ec7c5c97686b953.json",
+					"name" : "woff2_compress",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "woff2_decompress::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-woff2_decompress-Release-ee61a3919969ee9c8c4c.json",
+					"name" : "woff2_decompress",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "woff2_info::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-woff2_info-Release-b18072e86f4e7edbfe05.json",
+					"name" : "woff2_info",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "woff2common::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-woff2common-Release-d58ad1a23b5bd19a9027.json",
+					"name" : "woff2common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "woff2dec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-woff2dec-Release-c647723951c1bbbbd440.json",
+					"name" : "woff2dec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "woff2enc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-woff2enc-Release-0a4ab7b5224a6be9eb08.json",
+					"name" : "woff2enc",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Windows/Documents/Github/Abdal TTF WOFF2/cmake-build-release---32",
+		"source" : "C:/Users/Windows/Documents/Github/Abdal TTF WOFF2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

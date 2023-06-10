@@ -1,0 +1,10 @@
+prefix=C:/Program Files (x86)/woff2
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libwoff2common
+Description: Shared data used by libwoff2 and libwoff2dec libraries
+URL: https://github.com/google/woff2
+Version: 1.0.2
+Libs: -L${libdir} -lwoff2common
+Cflags: -I${includedir}
